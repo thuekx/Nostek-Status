@@ -7,3 +7,5 @@ dist/
 data/
 config.local.*
 .DS_Store
+.hygiene-deny
+__pycache__/
